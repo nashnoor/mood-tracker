@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "assynerg_mooduser";
-$password = "IJtd*=,j4%Fl";
-$dbname = "assynerg_moodtable";
+$username = "user";
+$password = "password";
+$dbname = "db_name";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
